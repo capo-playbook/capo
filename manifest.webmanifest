@@ -1,0 +1,29 @@
+{
+ "name": "The Capo Playbook",
+ "short_name": "Capo",
+ "description": "Free memecoin red-flag checker, risk calculator, trade journal and paper Arena. Education only, not financial advice.",
+ "start_url": "/capo/",
+ "scope": "/capo/",
+ "id": "/capo/",
+ "display": "standalone",
+ "background_color": "#050605",
+ "theme_color": "#050605",
+ "icons": [
+  {
+   "src": "/capo/static/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/capo/static/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "/capo/static/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
